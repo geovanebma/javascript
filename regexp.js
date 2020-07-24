@@ -71,3 +71,8 @@ console.log(regExp.test("john   @gmail.com"))
 //Grupos de captura - ()
 var regExp = /\w+@\w+(\.\w{2,3})+$/ //Nesse caso aceita 2 ou 3 caracteres que terminam com .palavra 
 console.log(regExp.test("john@gmail.com.br"))
+
+var a = () => {}
+var a = () => {}
+var a = () => {}
+var a = () => {}
